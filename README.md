@@ -1,5 +1,8 @@
-![WhatsApp Image 2022-10-11 at 15 19 03](https://user-images.githubusercontent.com/105584020/220463953-813a667d-d175-4f6e-b14f-b9bb49d308ed.jpeg)
-### Hi there 👋
+
+![banner-linkedin](https://github.com/AlessandroRotili/AlessandroRotili/assets/105584020/b7217a6f-0fbc-469e-a927-eb5d854d7d3c)
+
+
+### Hi there 👋!
 Welcome to my GitHub repository! My name is Alessandro Rotili, a 29-year-old sports enthusiast with a passion for software development. Prior to pursuing programming, I worked as a personal trainer.
 
 I have worked with several programming languages, including .NET and Angular, and am currently focusing on Java. I also have experience with Python and MQL4, and am always looking for new challenges and learning opportunities.
